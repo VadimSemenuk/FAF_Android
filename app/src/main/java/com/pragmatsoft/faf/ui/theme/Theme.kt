@@ -24,6 +24,7 @@ private val DarkColorScheme = darkColorScheme(
 
     background = BlueSuperDark_Night,
 
+    surface = BlueDark_Night,
     surfaceContainerLow = BlueSuperDark_Night,
     surfaceContainer = BlueLight_Night,
     surfaceContainerHigh = BlueSuperDark_Night,
@@ -45,6 +46,7 @@ private val LightColorScheme = lightColorScheme(
 
     background = BlueSuperLight,
 
+    surface = White,
     surfaceContainerLow = BlueSuperLight,
     surfaceContainer = BlueLight,
     surfaceContainerHigh = BlueSuperLight,

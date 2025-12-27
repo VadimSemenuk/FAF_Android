@@ -11,6 +11,7 @@
     <string name="share">Teilen</string>
     <string name="record">Aufnahme</string>
     <string name="accept">Bestätigen</string>
+    <string name="speech_processing_is_active">Die FAF-Sprachverarbeitung ist aktiv</string>
 
     <!-- audio device info -->
     <string name="audio_device_type_builtin_mic">Eingebautes Mikrofon</string>

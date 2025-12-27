@@ -11,6 +11,7 @@
     <string name="share">Поділитися</string>
     <string name="record">Запис</string>
     <string name="accept">Підтвердити</string>
+    <string name="speech_processing_is_active">FAF Обробка мовлення активна</string>
 
     <!-- region audio device info -->
     <string name="audio_device_type_builtin_mic">Вбудований мікрофон</string>

@@ -184,7 +184,7 @@ class AudioService : Service() {
     }
 
     private fun startAudioProcessing(): Boolean {
-//        audioHelper.audioManager.mode = AudioManager.MODE_NORMAL
+        audioHelper.audioManager.mode = AudioManager.MODE_NORMAL
         refreshBluetoothSCO()
         return startAudioProcessor()
     }
@@ -352,7 +352,7 @@ class AudioServiceNotificationManager(private val context: Context) {
         )
 
         return NotificationCompat.Builder(context, CHANNEL_ID)
-            .setContentTitle(context.resources.getString(R.string.app_name))
+            .setContentTitle(context.resources.getString(R.string.speech_processing_is_active))
             .setSmallIcon(R.drawable.ic_launcher_foreground)
             .setPriority(NotificationCompat.PRIORITY_MAX)
             .setCategory(Notification.CATEGORY_SERVICE)

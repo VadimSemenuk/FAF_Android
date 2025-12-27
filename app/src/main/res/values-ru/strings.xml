@@ -11,6 +11,7 @@
     <string name="share">Поделиться</string>
     <string name="record">Запись</string>
     <string name="accept">Подтвердить</string>
+    <string name="speech_processing_is_active">FAF обработка голоса активна</string>
 
 <!--    region audio device info-->
     <string name="audio_device_type_builtin_mic">Встроенный микрофон</string>
@@ -42,6 +43,7 @@
 
 <!--    region settings-->
     <string name="settings">Настройки</string>
+    <string name="noise_cancellation">Шумоподавление</string>
     <string name="mic">Микрофон</string>
     <string name="output">Динамик</string>
     <string name="auto_select">Автоматический выбор</string>
