@@ -11,6 +11,7 @@
     <string name="share">Падзяліцца</string>
     <string name="record">Запіс</string>
     <string name="accept">Пацвердзіць</string>
+    <string name="speech_processing_is_active">FAF Апрацоўка маўлення актыўная</string>
 
     <!-- region audio device info -->
     <string name="audio_device_type_builtin_mic">Убудаваны мікрафон</string>

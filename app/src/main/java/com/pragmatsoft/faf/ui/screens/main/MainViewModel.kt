@@ -65,8 +65,8 @@ class MainViewModel @Inject constructor(
                 _state.value.copy(
                     pitch = pitch,
                     gain = gain,
-//                    isOutputDeviceAvailable = true,
-                    isOutputDeviceAvailable = outputDevices.isNotEmpty(),
+                    isOutputDeviceAvailable = true,
+//                    isOutputDeviceAvailable = outputDevices.isNotEmpty(),
                     isAdVisible = isAdVisible,
                     isInitialHelpShown = isInitialHelpShown
                 )

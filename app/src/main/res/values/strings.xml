@@ -11,6 +11,7 @@
     <string name="share">Share</string>
     <string name="record">Record</string>
     <string name="accept">Confirm</string>
+    <string name="speech_processing_is_active">FAF speech processing is active</string>
 
     <!-- region audio device info -->
     <string name="audio_device_type_builtin_mic">Built-in microphone</string>

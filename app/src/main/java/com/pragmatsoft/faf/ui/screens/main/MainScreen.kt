@@ -657,7 +657,7 @@ fun PitchSelector(
             horizontalArrangement = Arrangement.SpaceBetween
         ) {
             Text(
-                text = "Pitch",
+                text = stringResource(R.string.pitch),
                 style = MaterialTheme.typography.labelLargeEmphasized
             )
 
